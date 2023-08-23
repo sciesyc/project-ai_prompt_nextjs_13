@@ -1,4 +1,4 @@
-import Nav from '@components/nav';
+import Navbar from '@components/navbar';
 import Provider from '@components/provider';
 
 import '@styles/globals.css';
@@ -17,7 +17,7 @@ const RootLayout = ({ children }) => {
         </div>
 
         <main className="app">
-          <Nav />
+          <Navbar />
 
           {children}
         </main>
