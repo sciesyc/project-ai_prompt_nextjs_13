@@ -1,5 +1,5 @@
-import Navbar from '@components/navbar';
-import Provider from '@components/provider';
+import Navbar from '@components/Navbar';
+import Provider from '@components/Provider';
 
 import '@styles/globals.css';
 
